@@ -31,5 +31,4 @@ if (ticker.LastPrice < 5000)
 ## Last Words
 
 To support this project;
-
-BTC: 1KTbqnBcdmRzemgpATifZGKZ2nXkUqAtEn
+BTC: *1KTbqnBcdmRzemgpATifZGKZ2nXkUqAtEn*
